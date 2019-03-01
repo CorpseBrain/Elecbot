@@ -1,0 +1,74 @@
+[
+  {
+    "value": "Particlephysics, Astrophysics,Laserscience",
+    "synonyms": [
+      "physics"
+    ]
+  },
+  {
+    "value": "Energy Technology,Inorganic chemistry,Organometallic chemistry",
+    "synonyms": [
+      "chemistry"
+    ]
+  },
+  {
+    "value": "C Programming, Design and analysis of algorithms, Data structures",
+    "synonyms": [
+      "Computer Science"
+    ]
+  },
+  {
+    "value": "Embedded systems, Digital Image Processing, Optical networks",
+    "synonyms": [
+      "ECE"
+    ]
+  },
+  {
+    "value": "Material engineering,Metrology and instrumentation, Manufacturing Processes",
+    "synonyms": [
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Aeronautical physics, Mechanical flaw diagnosis, Aviation law",
+    "synonyms": [
+      "Aeronautical"
+    ]
+  },
+  {
+    "value": "Spacecraft systems, Dyanamics and vibrations, Aerospace propulsion",
+    "synonyms": [
+      "Aerospace"
+    ]
+  },
+  {
+    "value": "Linear algebra, probability and statistics, Complex variables",
+    "synonyms": [
+      "Mathematics"
+    ]
+  },
+  {
+    "value": "Structural mechanics, air pollution, solid waste management",
+    "synonyms": [
+      "Civil"
+    ]
+  },
+  {
+    "value": "Building construction engineering, architectural ilumination systems, Material science",
+    "synonyms": [
+      "Architecture"
+    ]
+  },
+  {
+    "value": "semiconductor devices, remote sensing systems, natural language processing",
+    "synonyms": [
+      "EEE"
+    ]
+  },
+  {
+    "value": "Aviation law",
+    "synonyms": [
+      "Aviation law"
+    ]
+  }
+]

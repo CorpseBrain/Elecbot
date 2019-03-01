@@ -1,0 +1,42 @@
+{
+  "id": "8ad8cc4d-2bed-41cb-adc5-484cede08056",
+  "name": "elective",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5baaba33-4dc4-4a24-ac0d-9d2dea17bb4f",
+          "required": false,
+          "dataType": "@subjects",
+          "name": "subjects",
+          "value": "$subjects",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "ok cool, what is your subject preference?",
+            "u can choose $subjects",
+            "This subject is handled by $mentors",
+            "You have successfully chosen this elective"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551438091,
+  "fallbackIntent": false,
+  "events": []
+}

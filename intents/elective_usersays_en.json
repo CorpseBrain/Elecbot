@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1623d746-4a9a-40bc-a04a-88a6c2c50938",
+    "data": [
+      {
+        "text": "Civil",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "43dc8faf-17a0-40e1-826e-e689dcfbf5a5",
+    "data": [
+      {
+        "text": "Aerospace",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "0a644f33-3348-4bc5-96ad-3f88223cd2d9",
+    "data": [
+      {
+        "text": "Aeronautical",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "9758cf59-2a82-445b-a309-6a28027a7f7f",
+    "data": [
+      {
+        "text": "EEE",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "31d51f8c-3465-415b-a86a-819cd1e99091",
+    "data": [
+      {
+        "text": "Computer science",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "028a7129-f9be-4eb1-8544-7316c684ef6a",
+    "data": [
+      {
+        "text": "ECE",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551436804
+  },
+  {
+    "id": "f8da253e-5451-48c6-8edf-823f324c9769",
+    "data": [
+      {
+        "text": "Aviation law",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551438091
+  },
+  {
+    "id": "484c706b-81b6-48a2-abf5-cf3d737a8e62",
+    "data": [
+      {
+        "text": "i prefer ",
+        "userDefined": false
+      },
+      {
+        "text": "chemistry",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420129
+  },
+  {
+    "id": "e5bb8e07-be02-4aaa-ad6b-4710f6fd8ab8",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "physics",
+        "alias": "subjects",
+        "meta": "@subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551419487
+  },
+  {
+    "id": "fc122e7a-c213-49e7-a410-c413d3d94fa3",
+    "data": [
+      {
+        "text": "can you suggest me an elective?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551416565
+  }
+]
